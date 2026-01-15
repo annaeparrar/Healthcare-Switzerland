@@ -134,5 +134,7 @@ All data presented in this project is **fictional** and used exclusively for dem
 
 **Anna E. Parra R.**  
 _Data Analytics | Business Intelligence | Process Optimization_
+---
 Transforming clinical and financial data into actionable insights for healthcare decision-makers.
+
 
